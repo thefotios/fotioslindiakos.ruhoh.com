@@ -2,8 +2,8 @@
 title: printf("hello, world\n");
 date: '2012-05-18'
 description: My first post here
-categories: 
-tags: [first post]
+categories: [foo]
+tags: [first post, foo, bar]
 
 layout: post
 ---

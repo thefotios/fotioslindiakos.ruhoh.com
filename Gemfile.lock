@@ -3,7 +3,7 @@ GEM
   specs:
     directory_watcher (1.4.1)
     mustache (0.99.4)
-    psych (1.3.2)
+    psych (1.3.3)
     rack (1.4.1)
     redcarpet (2.1.1)
     ruhoh (0.3.0)
